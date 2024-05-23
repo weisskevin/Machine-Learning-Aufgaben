@@ -1,0 +1,3 @@
+Der Datensatz cl\_problem.txt besteht aus den Attributen index,
+das als Schlüsselattribut die Instanzen durchnummeriert, den numerischen Attributen attr1, attr2, attr3, attr4 und
+dem nominalen Attribut classattr, das die Werte a,b,c,d annehmen kann.
